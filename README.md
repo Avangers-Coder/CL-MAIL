@@ -7,3 +7,5 @@ $ pip install fake-useragent
 $ pip install prompt_toolkit
 $ cd CL-MAIL
 $ python red-hulk.pyc
+
+safe mode bro
